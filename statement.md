@@ -28,6 +28,14 @@ Calculation and visualization of a real-time Risk Score for defined road segment
 
 Categorization of predicted risk into distinct levels (e.g., Low, Moderate, High, Critical).
 
+Out-of-Scope:
+
+
+Development of the physical infrastructure (e.g., deploying new roadside sensors or smart signs).
+
+Integration directly into vehicle operating systems (ADAS/AVs).
+
+Detailed post-accident analysis tools.
 
 
 
