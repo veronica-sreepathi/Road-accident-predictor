@@ -17,7 +17,15 @@ Temporal Split Validation: Verify that the data is correctly split into training
 
 ## Scope of the Project
 The scope of this project is to develop and implement an AI-driven predictive modeling system that forecasts road accident risk.
+In-Scope:
 
+Development of a machine learning model (e.g., Deep Learning or Gradient Boosting) trained on historical accident data combined with external features (weather, traffic volume, road geometry).
+
+Establishment of a data pipeline for ingesting both static (road network) and dynamic (real-time traffic speed, current weather) data.
+
+Calculation and visualization of a real-time Risk Score for defined road segments (e.g., every 500 meters) within the target area.
+
+Categorization of predicted risk into distinct levels (e.g., Low, Moderate, High, Critical).
 
 
 
