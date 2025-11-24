@@ -101,10 +101,9 @@ predict_accident(input_data)
 
 📊 Screenshots (Optional)
 
-You may add:
-EDA graphs
-Model performance graphs
-UI screenshots
+<img width="1698" height="715" alt="output of project" src="https://github.com/user-attachments/assets/af9b5008-d67e-410c-93d3-5ee3601981f3" />
+
+
 
 📈 Future Improvements
 
