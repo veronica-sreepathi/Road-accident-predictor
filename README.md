@@ -103,7 +103,15 @@ predict_accident(input_data)
 
 <img width="1698" height="715" alt="output of project" src="https://github.com/user-attachments/assets/af9b5008-d67e-410c-93d3-5ee3601981f3" />
 
+Methodology and Models
+Data Processing
+Cleaning: Handling missing values, inconsistent entries, and outliers.
 
+Feature Engineering: Creating new, informative features (e.g., time of day groups, month, season, road type categorization).
+
+Encoding: Converting categorical features (e.g., weather conditions, road surface) into numerical format (e.g., One-Hot Encoding).
+
+Scaling: Normalizing numerical features to prevent bias towards large values.
 
 📈 Future Improvements
 
