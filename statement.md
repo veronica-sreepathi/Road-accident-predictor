@@ -45,7 +45,18 @@ Traffic Management Centers (TMCs),"Real-time alerts and risk maps to enable dyna
 Urban Planners & Civil Engineers,Data-driven evidence (post-analysis) to prioritize infrastructure improvements and road safety campaigns based on predicted risk factors.
 Navigation/Mapping App Providers,Integration of risk scores to provide proactive warnings or route diversions to drivers.
 
+## High-Level Features
+Real-Time Risk Scoring Engine: A core service that ingests streaming data and outputs a dynamic, continuously updated probability of an accident occurring on defined road segments.
 
+Geospatial Risk Visualization Dashboard: An interactive map-based interface displaying the predicted risk scores using heatmaps or color-coded segments, with the ability to filter by time, day, and risk factor contribution.
+
+Proactive Alert System: Automated notification system (email, API hook, or dashboard flash) triggered when a road segment's risk score crosses a pre-defined Critical threshold.
+
+Feature Contribution Analysis (XAI): A feature to show why a high-risk score was generated (e.g., "High Risk due to heavy rainfall (70%) and high speed (30%)"), aiding user trust and intervention planning.
+
+Historical Analysis and Reporting: Tools to review past predictions against actual accident occurrences to assess model accuracy and identify persistent high-risk corridors.
+
+Would you like to move on to drafting the initial technical architecture or the success metrics for this project?
 
 
 
