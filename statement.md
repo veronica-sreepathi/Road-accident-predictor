@@ -15,7 +15,8 @@ Test the logic of derived features (e.g., if a feature for "Rush Hour" is create
 
 Temporal Split Validation: Verify that the data is correctly split into training, validation, and testing sets, ensuring no data leakage. For time-series prediction, the test set must always be chronologically later than the training set.
 
-
+##Scope of the Project
+#The scope of this project is to develop and implement an AI-driven predictive modeling system that forecasts road accident risk.
 
 
 
