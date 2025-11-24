@@ -1,7 +1,7 @@
 # Data & Preprocessing Validation
 The model is only as good as the data it's trained on. This phase ensures data quality and feature engineering are robust.
 
-Data Quality Checks (Functional Testing of the Input Pipeline):
+## Data Quality Checks (Functional Testing of the Input Pipeline):
 
 Schema & Integrity Testing: Ensure all required features (e.g., weather, road type, time of day) are present and in the correct format (e.g., categorical variables are properly encoded).
 
