@@ -39,7 +39,11 @@ Detailed post-accident analysis tools.
 
 ## Target Users
 
-
+Target User Group,Primary Need/Benefit
+Traffic Management Centers (TMCs),"Real-time alerts and risk maps to enable dynamic traffic signal adjustments, lane closures, or speed limit changes before incidents occur."
+"Emergency Services (Police, EMS)","Predictive insights to optimize deployment and staging of ambulances and patrol units to high-risk zones, reducing response times."
+Urban Planners & Civil Engineers,Data-driven evidence (post-analysis) to prioritize infrastructure improvements and road safety campaigns based on predicted risk factors.
+Navigation/Mapping App Providers,Integration of risk scores to provide proactive warnings or route diversions to drivers.
 
 
 
