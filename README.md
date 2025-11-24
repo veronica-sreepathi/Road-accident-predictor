@@ -115,10 +115,8 @@ Scaling: Normalizing numerical features to prevent bias towards large values.
 
 📈 Future Improvements
 
-Deploy the model using cloud services (AWS/GCP).
+Real-Time Data Integration: Incorporating real-time data sources (e.g., live traffic, current weather) for more immediate predictions.
 
-Add deep learning models.
+Deep Learning Models: Experimenting with Recurrent Neural Networks (RNNs) or Temporal Convolutional Networks (TCNs) for time-series forecasting of accident rates.
 
-Integrate real-time traffic APIs.
-
-Improve front-end UI.
+Geospatial Analysis: Utilizing GIS data and geospatial features to predict accident hotspots with higher precision.
